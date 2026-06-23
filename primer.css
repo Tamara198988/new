@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+.info-block{
+    border:1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+
+li{
+    border-left: 8px dotted black;
+    margin: 20px;
+    display: inline-block;
+    padding: 5px;
+}
+a{
+    color: black;
+    margin: 30px;
+    padding: 20px;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    padding: 3px;   
+   
+}
+footer p{
+    background-color: aliceblue;
+    margin:10px;
+}
+
